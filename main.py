@@ -1,5 +1,5 @@
-saldo = 1000
 operacoes = dict()
+saldo = 1000
 saques = 0
 depositos = 0
 
